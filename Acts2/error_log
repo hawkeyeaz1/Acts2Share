@@ -1,0 +1,220 @@
+[08-Dec-2011 14:19:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'DB_SERVER' (1) in /home/purel9/public_html/Acts2/testpull.php on line 6
+[08-Dec-2011 15:02:36] PHP Warning:  mysqli_stmt_bind_result() [<a href='function.mysqli-stmt-bind-result'>function.mysqli-stmt-bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/purel9/public_html/Acts2/testpull.php on line 23
+[08-Dec-2011 15:02:36] PHP Fatal error:  Call to undefined function  expandtype() in /home/purel9/public_html/Acts2/testpull.php on line 26
+[08-Dec-2011 15:03:52] PHP Warning:  mysqli_stmt_bind_result() [<a href='function.mysqli-stmt-bind-result'>function.mysqli-stmt-bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/purel9/public_html/Acts2/testpull.php on line 23
+[08-Dec-2011 15:03:52] PHP Fatal error:  Call to undefined function  expandtype() in /home/purel9/public_html/Acts2/testpull.php on line 26
+[08-Dec-2011 15:03:55] PHP Warning:  mysqli_stmt_bind_result() [<a href='function.mysqli-stmt-bind-result'>function.mysqli-stmt-bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/purel9/public_html/Acts2/testpull.php on line 23
+[08-Dec-2011 15:03:55] PHP Fatal error:  Call to undefined function  expandtype() in /home/purel9/public_html/Acts2/testpull.php on line 26
+[08-Dec-2011 15:03:55] PHP Warning:  mysqli_stmt_bind_result() [<a href='function.mysqli-stmt-bind-result'>function.mysqli-stmt-bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/purel9/public_html/Acts2/testpull.php on line 23
+[08-Dec-2011 15:03:55] PHP Fatal error:  Call to undefined function  expandtype() in /home/purel9/public_html/Acts2/testpull.php on line 26
+[08-Dec-2011 15:04:17] PHP Fatal error:  Call to undefined function  expandtype() in /home/purel9/public_html/Acts2/testpull.php on line 26
+[08-Dec-2011 15:27:19] PHP Parse error:  syntax error, unexpected '[' in /home/purel9/public_html/Acts2/common.php on line 304
+[11-Jan-2012 08:51:29] PHP Fatal error:  Call to undefined function  obfuscateemail() in /home/purel9/public_html/Acts2/userpost.php on line 121
+[11-Jan-2012 09:35:16] PHP Warning:  Wrong parameter count for strrchr() in /home/purel9/public_html/Acts2/common.php on line 129
+[11-Jan-2012 13:52:23] PHP Fatal error:  Call to undefined function  obfuscateemail() in /home/purel9/public_html/Acts2/content.php on line 41
+[11-Jan-2012 13:55:02] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/userpost.php on line 128
+[11-Jan-2012 14:02:25] PHP Fatal error:  Cannot redeclare i() (previously declared in /home/purel9/public_html/Acts2/comment.php:4) in /home/purel9/public_html/Acts2/common.php on line 17
+[11-Jan-2012 15:54:06] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/purel9/public_html/Acts2/userpost.php on line 127
+[12-Jan-2012 17:13:38] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/index2.php on line 71
+[12-Jan-2012 17:17:33] PHP Fatal error:  Call to undefined function  html_enties_decode() in /home/purel9/public_html/Acts2/index2.php on line 36
+[12-Jan-2012 17:17:53] PHP Fatal error:  Call to undefined function  html_entities_decode() in /home/purel9/public_html/Acts2/index2.php on line 36
+[13-Jan-2012 10:19:16] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/index2.php on line 73
+[13-Jan-2012 10:20:46] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/index2.php on line 76
+[13-Jan-2012 10:29:05] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/purel9/public_html/Acts2/index2.php on line 46
+[13-Jan-2012 12:20:06] PHP Warning:  require(html.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:20:06] PHP Warning:  require(html.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:20:06] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'html.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:47:24] PHP Warning:  require(html.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:47:24] PHP Warning:  require(html.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:47:24] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'html.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:50:11] PHP Warning:  require(html.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:50:11] PHP Warning:  require(html.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 12:50:11] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'html.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/purel9/public_html/Acts2/index2.php on line 4
+[13-Jan-2012 16:53:04] PHP Parse error:  syntax error, unexpected '"' in /home/purel9/public_html/Acts2/html.php on line 14
+[13-Jan-2012 17:07:03] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index2.php on line 41
+[13-Jan-2012 17:08:05] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index2.php on line 41
+[16-Jan-2012 11:26:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/purel9/public_html/Acts2/html.php on line 33
+[16-Jan-2012 11:47:00] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/purel9/public_html/Acts2/html.php on line 53
+[16-Jan-2012 11:47:29] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/purel9/public_html/Acts2/html.php on line 53
+[16-Jan-2012 11:47:32] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/purel9/public_html/Acts2/html.php on line 53
+[16-Jan-2012 11:47:32] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/purel9/public_html/Acts2/html.php on line 53
+[16-Jan-2012 11:53:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/purel9/public_html/Acts2/html.php on line 33
+[16-Jan-2012 12:00:12] PHP Fatal error:  Call to undefined function  au() in /home/purel9/public_html/Acts2/index.php on line 45
+[16-Jan-2012 12:22:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/purel9/public_html/Acts2/html.php on line 307
+[16-Jan-2012 12:43:04] PHP Warning:  Missing argument 1 for tabs(), called in /home/purel9/public_html/Acts2/index.php on line 45 and defined in /home/purel9/public_html/Acts2/html.php on line 304
+[16-Jan-2012 13:35:29] PHP Fatal error:  Call to undefined function  tabstyles() in /home/purel9/public_html/Acts2/css.php on line 88
+[16-Jan-2012 15:07:20] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 92
+[16-Jan-2012 15:07:31] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 92
+[16-Jan-2012 15:07:33] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 92
+[16-Jan-2012 15:08:19] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 89
+[16-Jan-2012 15:08:32] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 89
+[16-Jan-2012 15:11:10] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 89
+[16-Jan-2012 15:12:58] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 89
+[16-Jan-2012 15:17:57] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 89
+[16-Jan-2012 15:22:55] PHP Fatal error:  Call to undefined function  autstyle() in /home/purel9/public_html/Acts2/css.php on line 89
+[17-Jan-2012 17:22:46] PHP Parse error:  syntax error, unexpected '}' in /home/purel9/public_html/Acts2/html.php on line 59
+[17-Jan-2012 17:26:44] PHP Parse error:  syntax error, unexpected ']' in /home/purel9/public_html/Acts2/index.php on line 20
+[19-Jan-2012 12:54:13] PHP Parse error:  syntax error, unexpected $end in /home/purel9/public_html/Acts2/html.php on line 317
+[19-Jan-2012 13:07:57] PHP Fatal error:  Call to undefined function  apache_request_headers() in /home/purel9/public_html/Acts2/index.php on line 17
+[19-Jan-2012 13:08:14] PHP Fatal error:  Call to undefined function  apache_request_headers() in /home/purel9/public_html/Acts2/index.php on line 17
+[19-Jan-2012 13:09:31] PHP Fatal error:  Call to undefined function  getallheaders() in /home/purel9/public_html/Acts2/index.php on line 17
+[19-Jan-2012 15:48:59] PHP Parse error:  syntax error, unexpected '/' in /home/purel9/public_html/Acts2/html.php on line 313
+[20-Jan-2012 13:35:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/purel9/public_html/Acts2/html.php on line 6
+[24-Jan-2012 11:05:01] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'DB_SERVER' (1) in /home/purel9/public_html/Acts2/index.php on line 19
+[24-Jan-2012 11:20:54] PHP Warning:  Division by zero in /home/purel9/public_html/Acts2/html.php on line 402
+[24-Jan-2012 11:20:54] PHP Warning:  Invalid argument supplied for foreach() in /home/purel9/public_html/Acts2/html.php on line 403
+[24-Jan-2012 11:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/purel9/public_html/Acts2/html.php on line 403
+[24-Jan-2012 11:48:26] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/purel9/public_html/Acts2/html.php on line 134
+[24-Jan-2012 11:48:26] PHP Warning:  mysqli_stmt_field_count() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 135
+[24-Jan-2012 11:48:26] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 136
+[24-Jan-2012 11:48:26] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 137
+[24-Jan-2012 11:48:26] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 138
+[24-Jan-2012 11:49:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/purel9/public_html/Acts2/index.php on line 19
+[24-Jan-2012 11:58:22] PHP Parse error:  syntax error, unexpected ';', expecting '=' in /home/purel9/public_html/Acts2/index.php on line 47
+[24-Jan-2012 12:08:12] PHP Parse error:  syntax error, unexpected T_LIST, expecting '{' in /home/purel9/public_html/Acts2/index.php on line 15
+[24-Jan-2012 14:34:10] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/purel9/public_html/Acts2/html.php on line 153
+[24-Jan-2012 14:34:10] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 154
+[24-Jan-2012 14:34:10] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 155
+[24-Jan-2012 14:34:10] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 157
+[24-Jan-2012 14:34:10] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 158
+[24-Jan-2012 14:34:10] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 159
+[24-Jan-2012 14:43:46] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/purel9/public_html/Acts2/html.php on line 163
+[24-Jan-2012 16:23:33] PHP Parse error:  syntax error, unexpected '}' in /home/purel9/public_html/Acts2/html.php on line 229
+[24-Jan-2012 16:23:56] PHP Catchable fatal error:  Object of class mysqli_stmt could not be converted to string in /home/purel9/public_html/Acts2/html.php on line 175
+[24-Jan-2012 16:40:09] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home/purel9/public_html/Acts2/index.php on line 55
+[24-Jan-2012 16:40:41] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/purel9/public_html/Acts2/html.php on line 141
+[24-Jan-2012 16:40:41] PHP Warning:  mysqli_stmt_field_count() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 142
+[24-Jan-2012 16:40:41] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 143
+[24-Jan-2012 16:40:41] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 144
+[24-Jan-2012 16:40:41] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, null given in /home/purel9/public_html/Acts2/html.php on line 145
+[24-Jan-2012 16:45:25] PHP Parse error:  syntax error, unexpected $end in /home/purel9/public_html/Acts2/html.php on line 500
+[25-Jan-2012 18:16:18] PHP Parse error:  syntax error, unexpected T_STRING in /home/purel9/public_html/Acts2/html.php on line 199
+[25-Jan-2012 18:16:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/purel9/public_html/Acts2/html.php on line 214
+[25-Jan-2012 18:17:11] PHP Fatal error:  Cannot redeclare htmlajaxhtml() (previously declared in /home/purel9/public_html/Acts2/html.php:22) in /home/purel9/public_html/Acts2/html.php on line 387
+[25-Jan-2012 18:18:13] PHP Warning:  Missing argument 4 for htmlajaxhtml(), called in /home/purel9/public_html/Acts2/html.php on line 113 and defined in /home/purel9/public_html/Acts2/html.php on line 22
+[25-Jan-2012 18:18:17] PHP Warning:  Missing argument 4 for htmlajaxhtml(), called in /home/purel9/public_html/Acts2/html.php on line 113 and defined in /home/purel9/public_html/Acts2/html.php on line 22
+[25-Jan-2012 18:18:32] PHP Warning:  Missing argument 4 for htmlajaxhtml(), called in /home/purel9/public_html/Acts2/html.php on line 113 and defined in /home/purel9/public_html/Acts2/html.php on line 22
+[27-Jan-2012 15:33:32] PHP Fatal error:  Call to undefined function  text() in /home/purel9/public_html/Acts2/html.php on line 82
+[27-Jan-2012 15:34:21] PHP Warning:  Missing argument 1 for inputtext(), called in /home/purel9/public_html/Acts2/html.php on line 82 and defined in /home/purel9/public_html/Acts2/html.php on line 16
+[27-Jan-2012 15:34:21] PHP Warning:  Missing argument 2 for inputtext(), called in /home/purel9/public_html/Acts2/html.php on line 82 and defined in /home/purel9/public_html/Acts2/html.php on line 16
+[27-Jan-2012 16:41:11] PHP Warning:  Missing argument 1 for scope(), called in /home/purel9/public_html/Acts2/html.php on line 93 and defined in /home/purel9/public_html/Acts2/html.php on line 45
+[30-Jan-2012 09:45:09] PHP Parse error:  syntax error, unexpected ':' in /home/purel9/public_html/Acts2/index.php on line 122
+[30-Jan-2012 09:45:57] PHP Parse error:  syntax error, unexpected ':' in /home/purel9/public_html/Acts2/index.php on line 123
+[30-Jan-2012 13:56:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/purel9/public_html/Acts2/index.php on line 9
+[30-Jan-2012 13:56:38] PHP Parse error:  syntax error, unexpected ',' in /home/purel9/public_html/Acts2/index.php on line 9
+[30-Jan-2012 13:56:56] PHP Parse error:  syntax error, unexpected ')' in /home/purel9/public_html/Acts2/html.php on line 21
+[30-Jan-2012 13:58:09] PHP Parse error:  syntax error, unexpected ')' in /home/purel9/public_html/Acts2/html.php on line 21
+[30-Jan-2012 13:59:54] PHP Warning:  Missing argument 4 for htmlajaxhtml(), called in /home/purel9/public_html/Acts2/html.php on line 244 and defined in /home/purel9/public_html/Acts2/html.php on line 137
+[30-Jan-2012 14:39:30] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/html.php on line 6
+[30-Jan-2012 14:39:55] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/html.php on line 6
+[30-Jan-2012 16:26:35] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/html.php on line 145
+[30-Jan-2012 16:28:21] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/html.php on line 145
+[30-Jan-2012 16:28:34] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/html.php on line 145
+[30-Jan-2012 16:29:40] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/html.php on line 145
+[30-Jan-2012 16:43:07] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 165
+[30-Jan-2012 17:08:29] PHP Parse error:  syntax error, unexpected '<' in /home/purel9/public_html/Acts2/html.php on line 90
+[30-Jan-2012 17:22:24] PHP Warning:  Missing argument 4 for htmlajaxhtml(), called in /home/purel9/public_html/Acts2/html.php on line 210 and defined in /home/purel9/public_html/Acts2/html.php on line 137
+[31-Jan-2012 14:04:53] PHP Warning:  Missing argument 1 for hiddeninput(), called in /home/purel9/public_html/Acts2/html.php on line 160 and defined in /home/purel9/public_html/Acts2/html.php on line 182
+[31-Jan-2012 14:04:53] PHP Warning:  Missing argument 2 for hiddeninput(), called in /home/purel9/public_html/Acts2/html.php on line 160 and defined in /home/purel9/public_html/Acts2/html.php on line 182
+[31-Jan-2012 14:04:53] PHP Warning:  Missing argument 3 for hiddeninput(), called in /home/purel9/public_html/Acts2/html.php on line 160 and defined in /home/purel9/public_html/Acts2/html.php on line 182
+[31-Jan-2012 14:06:04] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 81
+[01-Feb-2012 13:00:24] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/purel9/public_html/Acts2/html.php on line 23
+[01-Feb-2012 13:00:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/purel9/public_html/Acts2/html.php on line 23
+[01-Feb-2012 13:03:45] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 82
+[01-Feb-2012 13:34:33] PHP Parse error:  syntax error, unexpected $end in /home/purel9/public_html/Acts2/html.php on line 125
+[01-Feb-2012 14:36:47] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 25
+[01-Feb-2012 17:15:03] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 84
+[01-Feb-2012 17:15:03] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 84
+[01-Feb-2012 17:15:03] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 84
+[01-Feb-2012 17:15:03] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 84
+[01-Feb-2012 17:15:03] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 84
+[01-Feb-2012 17:15:03] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 84
+[03-Feb-2012 10:35:36] PHP Fatal error:  Cannot redeclare submitpost() (previously declared in /home/purel9/public_html/Acts2/index.php:174) in /home/purel9/public_html/Acts2/html.php on line 379
+[03-Feb-2012 13:47:32] PHP Fatal error:  Call to undefined function  verifystring() in /home/purel9/public_html/Acts2/index.php on line 209
+[03-Feb-2012 14:03:29] PHP Fatal error:  Cannot redeclare submitcomment() (previously declared in /home/purel9/public_html/Acts2/index.php:235) in /home/purel9/public_html/Acts2/html.php on line 348
+[03-Feb-2012 14:43:22] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/purel9/public_html/Acts2/index.php on line 248
+[03-Feb-2012 14:47:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home/purel9/public_html/Acts2/index.php on line 256
+[03-Feb-2012 14:52:49] PHP Warning:  mysqli_stmt_bind_param() [<a href='function.mysqli-stmt-bind-param'>function.mysqli-stmt-bind-param</a>]: Number of elements in type definition string doesn't match number of bind variables in /home/purel9/public_html/Acts2/index.php on line 251
+[03-Feb-2012 15:01:38] PHP Parse error:  syntax error, unexpected $end in /home/purel9/public_html/Acts2/html.php on line 356
+[03-Feb-2012 15:15:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/purel9/public_html/Acts2/html.php on line 89
+[03-Feb-2012 16:55:56] PHP Parse error:  syntax error, unexpected T_RETURN in /home/purel9/public_html/Acts2/index.php on line 228
+[03-Feb-2012 16:57:13] PHP Parse error:  syntax error, unexpected '}' in /home/purel9/public_html/Acts2/index.php on line 229
+[03-Feb-2012 17:02:56] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND in /home/purel9/public_html/Acts2/index.php on line 262
+[03-Feb-2012 17:03:31] PHP Parse error:  syntax error, unexpected '&' in /home/purel9/public_html/Acts2/index.php on line 262
+[03-Feb-2012 17:03:53] PHP Parse error:  syntax error, unexpected T_BREAK in /home/purel9/public_html/Acts2/index.php on line 265
+[04-Feb-2012 00:05:59] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/purel9/public_html/Acts2/index.php on line 257
+[06-Feb-2012 11:11:20] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/purel9/public_html/Acts2/index.php on line 257
+[06-Feb-2012 11:11:41] PHP Parse error:  syntax error, unexpected '}' in /home/purel9/public_html/Acts2/html.php on line 352
+[06-Feb-2012 11:41:36] PHP Parse error:  syntax error, unexpected ':' in /home/purel9/public_html/Acts2/html.php on line 278
+[06-Feb-2012 15:45:52] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ']' in /home/purel9/public_html/Acts2/index.php on line 217
+[06-Feb-2012 15:46:20] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/purel9/public_html/Acts2/email.php on line 25
+[06-Feb-2012 15:46:40] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/purel9/public_html/Acts2/email.php on line 44
+[06-Feb-2012 15:47:25] PHP Warning:  inet_ntop() [<a href='function.inet-ntop'>function.inet-ntop</a>]: Invalid in_addr value in /home/purel9/public_html/Acts2/email.php on line 19
+[06-Feb-2012 17:34:35] PHP Fatal error:  Call to undefined function  inetptop() in /home/purel9/public_html/Acts2/email.php on line 19
+[06-Feb-2012 17:35:57] PHP Warning:  inet_ntop() [<a href='function.inet-ntop'>function.inet-ntop</a>]: Invalid in_addr value in /home/purel9/public_html/Acts2/email.php on line 19
+[07-Feb-2012 17:23:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/purel9/public_html/Acts2/html.php on line 340
+[10-Feb-2012 16:53:19] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 39
+[10-Feb-2012 17:46:51] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/purel9/public_html/Acts2/css.php on line 3
+[10-Feb-2012 17:47:13] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/purel9/public_html/Acts2/css.php on line 3
+[10-Feb-2012 17:47:21] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/purel9/public_html/Acts2/css.php on line 3
+[10-Feb-2012 17:48:09] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/purel9/public_html/Acts2/css.php on line 87
+[16-Feb-2012 11:08:00] PHP Parse error:  syntax error, unexpected ')' in /home/purel9/public_html/Acts2/css.php on line 21
+[16-Feb-2012 11:09:12] PHP Parse error:  syntax error, unexpected ')' in /home/purel9/public_html/Acts2/css.php on line 21
+[17-Feb-2012 08:32:40] PHP Parse error:  syntax error, unexpected '}' in /home/purel9/public_html/Acts2/css.php on line 293
+[17-Feb-2012 08:34:34] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/css.php on line 292
+[17-Feb-2012 08:37:51] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/css.php on line 295
+[17-Feb-2012 08:37:58] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/css.php on line 295
+[17-Feb-2012 08:39:07] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/css.php on line 295
+[17-Feb-2012 08:40:08] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/css.php on line 295
+[17-Feb-2012 09:01:46] PHP Parse error:  syntax error, unexpected ';' in /home/purel9/public_html/Acts2/css.php on line 295
+[17-Feb-2012 15:37:23] PHP Parse error:  syntax error, unexpected ',' in /home/purel9/public_html/Acts2/css.php on line 12
+[17-Feb-2012 15:37:39] PHP Parse error:  syntax error, unexpected ',' in /home/purel9/public_html/Acts2/css.php on line 12
+[17-Feb-2012 15:38:31] PHP Parse error:  syntax error, unexpected ',' in /home/purel9/public_html/Acts2/css.php on line 12
+[17-Feb-2012 16:11:39] PHP Parse error:  syntax error, unexpected '{' in /home/purel9/public_html/Acts2/css.php on line 115
+[17-Feb-2012 16:17:49] PHP Parse error:  syntax error, unexpected '{' in /home/purel9/public_html/Acts2/css.php on line 115
+[20-Feb-2012 16:26:38] PHP Warning:  Invalid argument supplied for foreach() in /home/purel9/public_html/Acts2/html.php on line 26
+[22-Feb-2012 16:34:53] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 28
+[22-Feb-2012 16:34:55] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 28
+[22-Feb-2012 16:35:01] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 28
+[22-Feb-2012 16:35:41] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 27
+[22-Feb-2012 16:36:06] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 27
+[22-Feb-2012 16:37:03] PHP Parse error:  syntax error, unexpected '.' in /home/purel9/public_html/Acts2/html.php on line 27
+[22-Feb-2012 16:58:46] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/purel9/public_html/Acts2/index.php on line 202
+[22-Feb-2012 16:58:55] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/purel9/public_html/Acts2/index.php on line 202
+[23-Feb-2012 16:23:19] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 105
+[23-Feb-2012 16:23:19] PHP Parse error:  syntax error, unexpected $end in /home/purel9/public_html/Acts2/html.php on line 135
+[27-Feb-2012 10:30:42] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/purel9/public_html/Acts2/html.php on line 99
+[27-Feb-2012 17:59:15] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 106
+[28-Feb-2012 13:04:01] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 106
+[29-Feb-2012 17:28:27] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/purel9/public_html/Acts2/html.php on line 354
+[02-Mar-2012 14:00:06] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 106
+[07-Mar-2012 15:48:27] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 106
+[07-Mar-2012 16:49:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/purel9/public_html/Acts2/html.php on line 44
+[07-Mar-2012 16:50:07] PHP Fatal error:  Call to undefined function  post() in /home/purel9/public_html/Acts2/html.php on line 43
+[13-Mar-2012 16:38:50] PHP Fatal error:  Call to undefined function  index() in /home/purel9/public_html/Acts2/index.php on line 93
+[12-Sep-2013 10:33:33 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Sep-2013 10:33:33 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[12-Sep-2013 10:33:33 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Sep-2013 10:33:33 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[12-Sep-2013 10:35:34 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Sep-2013 10:35:34 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[13-Sep-2013 13:35:26 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Sep-2013 13:35:26 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[13-Sep-2013 13:35:26 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Sep-2013 13:35:26 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[13-Sep-2013 13:36:13 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Sep-2013 13:36:13 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[13-Sep-2013 13:38:23 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Sep-2013 13:38:23 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[13-Sep-2013 13:38:24 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Sep-2013 13:38:24 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[13-Sep-2013 13:38:28 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Sep-2013 13:38:28 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[03-Oct-2013 20:06:11 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Oct-2013 20:06:11 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[03-Oct-2013 20:06:12 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Oct-2013 20:06:12 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[06-Nov-2014 22:17:49 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Nov-2014 22:17:49 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[06-Nov-2014 22:17:49 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Nov-2014 22:17:49 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0

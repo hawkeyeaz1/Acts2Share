@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+<html>
+ <head>
+  <title></title>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+  <link rel='stylesheet' type='text/css' href='css.php'>
+  <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
+  <style type='text/css'>
+   .a,.b,.c { top: 0px; position: relative; border: 1px solid black; display: inline; }
+   .b { height: 20px; width: 20px; }
+   .a,.c { height: 20px; width: 0px; }
+  </style>
+ </head>
+ <body style='height: 100%; width: 100%;'>
+  <div class='a'>_a_</div>
+  <div class='b'>_b_</div>
+  <div class='c'>_c_</div>
+  <script type='text/javascript'>
+   $('.a').hide();
+   $('.c').hide();
+   $('.b').click(function ()
+   {
+    $(this).animate({ width: '0px' }, 500, function () { $(this).hide(); });
+    $('.a').toggle().animate({ width: '20px' }, 500);
+   });
+   $('.a').click(function ()
+   {
+    $(this).animate({ width: '0px' }, 500, function () { $(this).hide(); });
+    $('.b').animate({ width: '20px' }, 500).toggle();
+   });
+  </script>
+ </body>
+</html>
